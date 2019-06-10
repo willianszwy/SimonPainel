@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.bee18e7c.chunk.css",
-    "main.js": "/static/js/main.c5ee4f2d.chunk.js",
-    "main.js.map": "/static/js/main.c5ee4f2d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.4b8e237e.chunk.css": "/static/css/2.4b8e237e.chunk.css",
-    "static/js/2.2b2eb29c.chunk.js": "/static/js/2.2b2eb29c.chunk.js",
-    "static/js/2.2b2eb29c.chunk.js.map": "/static/js/2.2b2eb29c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.df9f7bca965fcf0be8e64c587fa0008d.js": "/precache-manifest.df9f7bca965fcf0be8e64c587fa0008d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.4b8e237e.chunk.css.map": "/static/css/2.4b8e237e.chunk.css.map",
-    "static/css/main.bee18e7c.chunk.css.map": "/static/css/main.bee18e7c.chunk.css.map",
-    "static/media/semantic.min.css": "/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/SimonPainel/static/css/main.bee18e7c.chunk.css",
+    "main.js": "/SimonPainel/static/js/main.b4aa23d3.chunk.js",
+    "main.js.map": "/SimonPainel/static/js/main.b4aa23d3.chunk.js.map",
+    "runtime~main.js": "/SimonPainel/static/js/runtime~main.f70021f2.js",
+    "runtime~main.js.map": "/SimonPainel/static/js/runtime~main.f70021f2.js.map",
+    "static/css/2.67fd0441.chunk.css": "/SimonPainel/static/css/2.67fd0441.chunk.css",
+    "static/js/2.2b2eb29c.chunk.js": "/SimonPainel/static/js/2.2b2eb29c.chunk.js",
+    "static/js/2.2b2eb29c.chunk.js.map": "/SimonPainel/static/js/2.2b2eb29c.chunk.js.map",
+    "index.html": "/SimonPainel/index.html",
+    "precache-manifest.63e7ce3ed1034e3eea03fe2a584899fc.js": "/SimonPainel/precache-manifest.63e7ce3ed1034e3eea03fe2a584899fc.js",
+    "service-worker.js": "/SimonPainel/service-worker.js",
+    "static/css/2.67fd0441.chunk.css.map": "/SimonPainel/static/css/2.67fd0441.chunk.css.map",
+    "static/css/main.bee18e7c.chunk.css.map": "/SimonPainel/static/css/main.bee18e7c.chunk.css.map",
+    "static/media/semantic.min.css": "/SimonPainel/static/media/outline-icons.ef60a4f6.woff"
   }
 }
