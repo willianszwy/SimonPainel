@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00f5df019e53631aca52b26c1cff0da8",
+    "revision": "203aec31cefd778eb6d3b5b54e5e3b70",
     "url": "/SimonPainel/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SimonPainel/static/css/2.67fd0441.chunk.css"
   },
   {
-    "revision": "9439c7e4286355b3fd9f",
+    "revision": "7a01fddb9cb565abd996",
     "url": "/SimonPainel/static/css/main.bee18e7c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SimonPainel/static/js/2.2b2eb29c.chunk.js"
   },
   {
-    "revision": "9439c7e4286355b3fd9f",
-    "url": "/SimonPainel/static/js/main.b4aa23d3.chunk.js"
+    "revision": "7a01fddb9cb565abd996",
+    "url": "/SimonPainel/static/js/main.7fa4bcb6.chunk.js"
   },
   {
     "revision": "b23fe85f01858fdab170",
