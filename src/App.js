@@ -61,15 +61,15 @@ class App extends React.Component {
           <Segment inverted >
             <Label size="massive" color='green' ribbon>
               Próximo Atendimento
-        </Label>
+           </Label>
 
 
 
             <div className="center">
               <Animated animationIn="shake" animationOut="headShake" isVisible={animation}>
-                <Segment placeholder inverted style={{ fontSize: '6rem' }} textAlign="center">
+                <Segment placeholder inverted style={{ fontSize: '5rem' }} textAlign="center">
                   <Header color={atendimento.tipo === 0 ? "green" : "blue"}>{atendimento.tipo === 0 ? "NR" : "PR"}{atendimento.posicao}
-                    <Header.Subheader style={{ fontSize: '4rem', color: "red" }}>MESA: {atendimento.mesa} </Header.Subheader>
+                    <Header.Subheader style={{ fontSize: '3.5rem', color: "red" }}>MESA: {atendimento.mesa} </Header.Subheader>
                   </Header>
                 </Segment>
               </Animated>
